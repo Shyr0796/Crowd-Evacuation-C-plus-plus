@@ -1,2 +1,2 @@
-# Crowd-Evacuation-C-
-code on crowd evacuation by c++
+# Crowd-Evacuation-C++   
+code on crowd evacuation by c++   
